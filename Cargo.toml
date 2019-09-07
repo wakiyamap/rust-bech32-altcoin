@@ -1,11 +1,11 @@
 [package]
 name = "bitcoin-bech32"
-version = "0.11.0"
-authors = ["Clark Moody"]
-repository = "https://github.com/rust-bitcoin/rust-bech32-bitcoin"
-description = "Encodes and decodes Bitcoin Segregated Witness addresses in Bech32"
+version = "0.11.1"
+authors = ["WakiyamaP"]
+repository = "https://github.com/wakiyamap/rust-bech32-altcoin"
+description = "Encodes and decodes Altcoin Segregated Witness addresses in Bech32"
 readme = "README.md"
-keywords = ["bitcoin", "base32", "bech32", "encoding"]
+keywords = ["altcoin","monacoin", "base32", "bech32", "encoding"]
 categories = ["encoding"]
 license = "MIT"
 
