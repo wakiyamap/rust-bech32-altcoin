@@ -1,5 +1,5 @@
 [package]
-name = "bitcoin-bech32"
+name = "altcoin-bech32"
 version = "0.11.1"
 authors = ["WakiyamaP"]
 repository = "https://github.com/wakiyamap/rust-bech32-altcoin"
