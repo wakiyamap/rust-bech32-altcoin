@@ -5,7 +5,7 @@ authors = ["WakiyamaP"]
 repository = "https://github.com/wakiyamap/rust-bech32-altcoin"
 description = "Encodes and decodes Altcoin Segregated Witness addresses in Bech32"
 readme = "README.md"
-keywords = ["altcoin","monacoin", "base32", "bech32", "encoding"]
+keywords = ["altcoin", "base32", "bech32", "encoding"]
 categories = ["encoding"]
 license = "MIT"
 
