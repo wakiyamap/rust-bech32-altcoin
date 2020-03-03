@@ -1,4 +1,4 @@
-# Bitcoin Bech32
+# Altcoin Bech32
 
 Encodes and decodes Altcoins Segregated Witness addresses in the Bech32 format described in [BIP-0173](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki).
 
