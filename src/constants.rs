@@ -74,6 +74,8 @@ pub enum Network {
     Monacoin,
     /// Monacoin testnet
     MonacoinTestnet,
+    /// Monacoin regtest
+    MonacoinRegtest,
     /// Myriad mainnet
     Myriad,
     /// Myriad testnet
